@@ -1,0 +1,64 @@
+
+#contentarea{
+    float: right;
+    width: 860px;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 100px;
+    margin-left: 0px;
+    padding: 10px;
+    padding-top: 20px;
+    background-color: #d8def5;
+    min-height: 400px;
+}
+#contentarea form{
+    font-family: Constantia;
+}
+#contentarea form table{
+    width: 600px;
+}
+#frmtbl{
+    height: auto;
+    align-self: auto;
+}
+#frmtbl  #regtbl{
+        width: 300px;
+        margin-left: 30px;
+        text-align: justify;
+        cellspacing:0px;
+        cellpaddng:0px;
+        overflow: auto;
+        overflow-x: hidden;
+        font-family: times new roman;
+        
+
+}
+#contentarea form table td{
+    width: 100px;
+    height: 40px;
+}
+#contentarea form  input,select,button {
+    width: 170px;
+    height: 27px;
+    border-radius: 2px;
+}
+#contentarea form table td [type="submit"]{
+    background-color: #96928db8;
+    height: 40px;
+        width: 170px;
+
+}#contentarea form [type="submit"]{
+    background-color: #96928db8;
+    height: 34px;
+        width: 100px;
+
+}
+
+#contentarea form  [type="reset"]{
+    background-color: #96928db8; 
+        width: 170px;
+    height: 40px;
+
+}
+
